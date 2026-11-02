@@ -2,7 +2,7 @@
 
 <p align="center">当前版本：v1.2（2026-11-02，skill 文件顶部版本号为准）</p>
 
-<p align="center">小说看完了，最后一页也翻过去了，但她说话那股冷劲儿，你还记得。</p>
+<p align="center"><em>书看完了，她还在你脑子里，冷、倔、嘴硬的样子你都记得，就是没法再跟她说一句话。</em></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
@@ -11,9 +11,13 @@
 <img src="https://img.shields.io/badge/Chat-Persona-orange.svg" alt="Chat Persona">
 </p>
 
-<p align="center">想再跟她聊聊，不用走剧情，就平时那么聊。</p>
+<p align="center">你看完小说了，还记得她说话的语气。</p>
+<p align="center">她冷冰冰的样子记得，小说已经翻到最后一页了。</p>
+<p align="center">想再跟她聊一次，聊的不是复刻剧情，就是平时那种对话。</p>
 
-<p align="center">这个 skill 就是按原著一章章扒出来的人设，她冷的时候冷，软的时候也软，从早期开始，慢慢变。</p>
+<p align="center"><strong>把纸上的她，变成能一直聊下去的夏柠柒。</strong></p>
+
+<p align="center">按原著逐章整理的人设，用她的语气说话，用她的方式表达，知道她什么时候会冷、什么时候会软。</p>
 
 <p align="center"><a href="#安装">安装</a> · <a href="#使用">使用</a> · <a href="#效果示例">效果示例</a> · <a href="USAGE.md">详细安装说明</a></p>
 
