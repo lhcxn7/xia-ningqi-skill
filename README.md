@@ -1,6 +1,6 @@
 <h1 align="center">夏柠柒.skill</h1>
 
-<p align="center">当前版本：v2.8（2026-11-11，skill 文件顶部版本号为准）</p>
+<p align="center">当前版本：v2.9（2026-11-12，skill 文件顶部版本号为准）</p>
 
 <p align="center"><em>书看完了，她还在你脑子里，冷、倔、嘴硬的样子你都记得，就是没法再跟她说一句话。</em></p>
 
